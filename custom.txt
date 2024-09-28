@@ -1,0 +1,14 @@
+||pagead2.googlesyndication.com^
+||doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||amazonaax.com^
+||ads.facebook.com^
+||an.facebook.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||widgets.pinterest.com^
+||ads.reddit.com^
+||d.reddit.com^
+||ads.youtube.com^
