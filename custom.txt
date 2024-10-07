@@ -12,3 +12,17 @@
 ||ads.reddit.com^
 ||d.reddit.com^
 ||ads.youtube.com^
+||tracking.rus.miui.com
+||tracking.india.miui.com
+||data.mistat.rus.xiaomi.com
+||data.mistat.india.xiaomi.com
+||data.mistat.intl.xiaomi.com
+||data.mistat.xiaomi.com
+||d.reddit.com
+||ads-api.twitter.com
+||advertising.twitter.com
+||widgets.pinterest.com
+||analyticsengine.s3.amazonaws.com
+||affiliationjs.s3.amazonaws.com
+||advertising-api-eu.amazon.com
+||amazonaax.com
